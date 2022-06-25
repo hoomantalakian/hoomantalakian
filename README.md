@@ -6,6 +6,6 @@
 - Interested in the intersection of Technology and Society.
 
 ------------
-:fa-arrow-circle-down: Here is my contact information:
+👇 Here is my contact information:
 - [LinkedIn page](https://www.linkedin.com/in/hoomantalakian/ "My LinkedIn Page")
 - [Email](mailto:hooman.talakian@gmail.com "Email")
