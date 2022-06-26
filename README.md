@@ -12,5 +12,4 @@
 - [Gmail](mailto:hooman.talakian@gmail.com "Email")
 - [DEV](https://dev.to/hoomantalakian "DEV")
 
-
-https://c.tenor.com/1_uD2nUx7IYAAAAj/triforce-heroes-link.gif
+[![gg](gg "gg")](https://c.tenor.com/1_uD2nUx7IYAAAAj/triforce-heroes-link.gif "gg")
