@@ -11,5 +11,5 @@
 - [LinkedIn](https://www.linkedin.com/in/hoomantalakian/ "My LinkedIn Page")
 - [Gmail](mailto:hooman.talakian@gmail.com "Email")
 - [DEV](https://dev.to/hoomantalakian "DEV")
-
-![Alt Text]([https://drive.google.com/uc?export=download&id=1iJSNlon5-RAOlDJJKgsWM2sTg11ODs1i](https://drive.google.com/uc?export=download&id=1xcyWBr3s0GsywllRVYSKf_rYQEs_l6wU))
+- 
+![Alt Text](https://drive.google.com/uc?export=download&id=1xcyWBr3s0GsywllRVYSKf_rYQEs_l6wU)
