@@ -11,4 +11,3 @@
 - [LinkedIn](https://www.linkedin.com/in/hoomantalakian/ "My LinkedIn Page")
 - [Gmail](mailto:hooman.talakian@gmail.com "Email")
 - [DEV](https://dev.to/hoomantalakian "DEV")
-![Alt Text](https://c.tenor.com/1_uD2nUx7IYAAAAj/triforce-heroes-link.gif)
