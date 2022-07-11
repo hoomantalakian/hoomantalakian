@@ -6,11 +6,6 @@ Coding or Designing is not just about getting the job done. For me it's all abou
 Within the last 3 years, as a Web Developer, I have worked with a dozens of individuals and businesses in many different environments. As a local employee, as a freelancer, and of course, as a remote staff member. I should mention that I launched my own startup about 4 years ago. It is an online educational service for Music and Audio called "Khaneh-Ahangsazi". I'm very proud of it because this project has been very successful, and I have gained thousands of website visitors in a couple of months. As a result of large amounts of growth and progress, this website is currently on hold as we migrate it to the Next.js technology stack. 
 🔎 in order to help you better understand who I am, here are some more details:
 
-🧔  I am a **Front-end**/**Full-stack** Web Developer with **3+ years of experience**.  
-🧠 Looking forward to **new challenges** and seeking **new technologies**.  
-🚀 A **puzzle enthusiast** who likes finding **new solutions** and passionate about design and inventing **ideal workarounds**.  
-🔍 Interested in the intersection of **Technology** and **Society**.  
-
 ⫸ Main Skills: JavaScript | React.js | Node.js | Next.js | TypeScript | Sass
 
 ------------
