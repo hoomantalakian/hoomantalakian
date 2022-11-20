@@ -19,6 +19,6 @@ Within the last 4 years, as a Web Developer, I have worked with dozens of indivi
 👇 Here is my contact information:
 - [LinkedIn](https://www.linkedin.com/in/hoomantalakian/ "My LinkedIn Page")
 - [Gmail](mailto:hooman.talakian@gmail.com "Email")
-- [DEV](https://dev.to/hoomantalakian "DEV")
+- [DEV.to](https://dev.to/hoomantalakian "DEV")
 
 ![Alt Text](https://drive.google.com/uc?export=download&id=1iJSNlon5-RAOlDJJKgsWM2sTg11ODs1i)
